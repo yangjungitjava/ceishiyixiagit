@@ -8,7 +8,7 @@ public class demo {
         System.out.println("git");
         System.out.println("git");
         for (int i = 0; i <10 ; i++) {
-
+            System.out.println(i);
         }
     }
 }
